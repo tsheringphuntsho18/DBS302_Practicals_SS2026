@@ -86,7 +86,7 @@ Calculates spending behavior of users.
 
 Joins products with categories.
 
-## ⚡ Indexing
+## Indexing
 
 Indexes were created to improve query performance:
 
